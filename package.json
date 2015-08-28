@@ -1,0 +1,21 @@
+{
+  "name": "uuid",
+  "private": true,
+  "version": "1.0.0",
+  "description": "Generate (almost) unique ids.",
+  "main": "build/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "babel src --out-dir build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DannyvanderJagt/rocket-uuid.git"
+  },
+  "author": "Danny van der Jagt <dannyvanderjagt@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/DannyvanderJagt/rocket-uuid/issues"
+  },
+  "homepage": "https://github.com/DannyvanderJagt/rocket-uuid#readme"
+}
