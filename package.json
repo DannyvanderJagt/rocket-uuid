@@ -1,5 +1,5 @@
 {
-  "name": "uuid",
+  "name": "uid",
   "private": true,
   "version": "1.0.0",
   "description": "Generate (almost) unique ids.",
@@ -10,12 +10,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/DannyvanderJagt/rocket-uuid.git"
+    "url": "git+https://github.com/DannyvanderJagt/uid.git"
   },
   "author": "Danny van der Jagt <dannyvanderjagt@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/DannyvanderJagt/rocket-uuid/issues"
+    "url": "https://github.com/DannyvanderJagt/uid/issues"
   },
-  "homepage": "https://github.com/DannyvanderJagt/rocket-uuid#readme"
+  "homepage": "https://github.com/DannyvanderJagt/uid#readme"
 }

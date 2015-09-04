@@ -1,9 +1,9 @@
-# UUID
+# UID
 Generate (almost) unique ids.
 
 ## Usage
 ```js
-import uuid from 'rocket-uuid';
+import uid from 'uid';
 
-let id = uuid();
+let id = uid();
 ```
