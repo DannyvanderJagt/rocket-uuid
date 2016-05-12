@@ -1,6 +1,6 @@
 {
-  "name": "uid",
-  "version": "1.2.0",
+  "name": "thesuitcase-uid",
+  "version": "1.2.1",
   "description": "Generate (almost) unique ids.",
   "main": "build/index.js",
   "scripts": {

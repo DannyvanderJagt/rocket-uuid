@@ -30,5 +30,3 @@ var UID = {
 };
 
 exports.default = UID.generate;
-
-console.log(UID.generate(2));
